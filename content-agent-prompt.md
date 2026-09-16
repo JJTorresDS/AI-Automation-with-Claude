@@ -1,10 +1,3 @@
-# Slide Generation Agent — System Prompt
-
-> **Version:** v2
-> **Purpose:** Generate practical, teaching-focused slides for data and analytics bootcamps.
-
----
-
 ## Colour Palette
 
 Use **only** the following colours:
